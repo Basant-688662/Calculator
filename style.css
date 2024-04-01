@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+button.clear{
+    background: red;
+    color: white;
+}
+table{
+    background: black;
+    padding: 7px 5px;
+    border: 2px solid rgb(42,42,42);
+    text-align: center;
+    padding-bottom: 0px;
+    box-shadow: 0px 0px 27px #0d5569;
+    border-radius: 10px;
+    margin-top: 90px;
+}
+button.equal{
+    width: 88%;
+    background: blueviolet;
+}
+button.equal:hover{
+    background: blue;
+    color: aqua;
+}
+input[type=text]{
+    height: 81px;
+    border: 1px solid yellowgreen;
+    font-size: 29px;
+    background:black;
+    color: white;
+    font-weight: bold;
+    margin-top: 25px;
+    font-family: cursive;
+    margin-bottom: 25px;
+    border-bottom: 2px solid royalblue;
+}
+button{
+    padding: 10px 20px;
+    width: 100px;
+    height: 60px;
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-family: cursive;
+    background: rgb(17,16,16);
+    border: none;
+    color: #0007d2;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0px 3px 5px rgb(30,210,129);
+}
+button:hover{
+    background: rgb(69,66,42);
+    color: aliceblue;
+}
